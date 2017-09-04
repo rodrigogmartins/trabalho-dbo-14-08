@@ -1,0 +1,18 @@
+body {
+    background-color: #596570;
+}
+
+.tamanho {
+    width: 400px;
+}
+
+.titulo {
+     left: 45%;
+     margin-top: 15px;
+     color: #ffffff;
+}
+
+.table {
+    left: 35%;
+    margin-top: 15px;
+}
